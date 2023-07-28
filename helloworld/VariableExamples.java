@@ -25,7 +25,6 @@ public class VariableExamples {
     }
 
     public static void main(String[] args) {
-
         System.out.println(VariableExamples.b);
         VariableExamples.b = 20;
         System.out.println(VariableExamples.b);
